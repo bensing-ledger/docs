@@ -4,9 +4,9 @@ This documentation is language-agnostic design for the ledger.
 
 ## Use cases
 
-- Depoist Funds
+- Deposit Funds
 - Transfer Funds
-- Withdrawl Funds
+- Withdraw Funds
 
 ### Deposit Funds
 
@@ -16,6 +16,6 @@ This documentation is language-agnostic design for the ledger.
 
 [todo]
 
-### Withdrawl Funds
+### Withdraw Funds
 
 [todo]
