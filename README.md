@@ -8,6 +8,8 @@ This documentation is language-agnostic design for the ledger.  This ledger is a
 - Send Funds
 - Withdraw Funds
 
+Examples of how these use cases look in a ledger can be found at [Bensing Ledger - Example](https://docs.google.com/spreadsheets/d/1G1NLvnJIlmE6_xCFI6UCidd1r7ob65sbjNE-bZrV_-I/edit?usp=sharing)
+
 ### 1.0 Deposit Funds
 
 A user deposits funds from an outside cash source into the ledger
